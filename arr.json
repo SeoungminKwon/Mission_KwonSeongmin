@@ -1,12 +1,7 @@
 {
-  "1" : {
-    "id" : 1,
-    "author" : "소크랏라테스",
-    "famousSayingStr" : "너 자신을 알아라"
-  },
   "2" : {
     "id" : 2,
-    "author" : "실패",
-    "famousSayingStr" : "성공"
+    "author" : "test1",
+    "famousSayingStr" : "test1"
   }
 }

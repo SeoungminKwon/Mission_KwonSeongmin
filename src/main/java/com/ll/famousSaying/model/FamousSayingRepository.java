@@ -90,7 +90,6 @@ public class FamousSayingRepository {
     }
 
     public int nowIdx() {
-        System.out.println(idx);
         return idx;
     }
 
